@@ -5,63 +5,63 @@
 > * 译者：
 > * 校对者：
 
-# Deep Learning Is Going to Teach Us All the Lesson of Our Lives: Jobs Are for Machines
+# 深度学习将教会我们生活中的所有教训：工作适用于机器
 
-_(An alternate version of this article was originally published in_ [_the Boston Globe)_](http://www.bostonglobe.com/ideas/2016/02/24/robots-will-take-your-job/5lXtKomQ7uQBEzTJOXT7YO/story.html)
+_(本文的另一个版本最初发表于_ [_波士顿环球报)_](http://www.bostonglobe.com/ideas/2016/02/24/robots-will-take-your-job/5lXtKomQ7uQBEzTJOXT7YO/story.html)
 
 ![](https://cdn-images-1.medium.com/max/2000/1*WtLgKg59v-CT1Jw6KCdclw.jpeg)
 
-18-time world champion Lee Se-dol learning something new from AlphaGo - defeat
+18 次世界冠军 Lee Se-dol 从 AlphaGo 学到新东西 —— 失败
 
-On December 2nd, 1942, a team of scientists led by Enrico Fermi came back from lunch and watched as humanity created the first self-sustaining nuclear reaction inside a pile of bricks and wood underneath a football field at the University of Chicago. Known to history as [Chicago Pile-1](https://www.youtube.com/watch?v=0tKf7R2XncM), it was celebrated in silence with a single bottle of Chianti, for those who were there understood exactly what it meant for humankind, without any need for words.
+1942 年 12 月 2 日，由恩里科·费米领导的一个科学家小组从午餐回来，看着人类在芝加哥大学足球场下面的一堆砖块和木头内创造了第一次自我维持的核反应。历史上被称为[芝加哥桩-1](https://www.youtube.com/watch?v=0tKf7R2XncM)，它是用一瓶基安蒂沉默庆祝的，对于那些在那里明白它意味着什么的人 对于人类而言，不需要任何言语。
 
-Now, something new has occurred that, again, quietly changed the world forever. Like a whispered word in a foreign language, it was quiet in that you may have heard it, but its full meaning may not have been comprehended. However, it’s vital we understand this new language, and what it’s increasingly telling us, for the ramifications are set to alter everything we take for granted about the way our globalized economy functions, and the ways in which we as humans exist within it.
+现在，又出现了一些新事物，它再次悄然改变了这个世界。 就像一个外语中的低语，它很安静，因为你可能听过它，但它的全部意义可能还没有被理解。 然而，重要的是我们理解这种新语言，以及它越来越多地告诉我们，因为这些后果将会改变我们对全球化经济运作方式以及我们作为人类存在的方式所取得的一切。
 
-The language is a new class of machine learning known as [**deep learning**](http://deeplearning.net/), and the “whispered word” was a computer’s use of it to seemingly out of nowhere [defeat three-time European Go champion Fan Hui](https://www.youtube.com/watch?v=SUbqykXVx0A), not once but five times in a row without defeat. Many who read this news, considered that as impressive, but in no way comparable to a match against Lee Se-dol instead, who many consider to be one of the world’s best living Go players, if not _the_ best. Imagining such a grand duel of man versus machine, [China’s top Go player predicted that Lee would not lose a single game, and Lee himself confidently expected to possibly lose one at the most](http://news.xinhuanet.com/english/sports/2016-02/23/c_135121693.htm).
+这种语言是一种新的机器学习类型，被称为[**深度学习**](http://deeplearning.net/)，“低声说话”是计算机使用它看似无处不在[失败三 - 时间欧洲围棋冠军范辉](https://www.youtube.com/watch?v=SUbqykXVx0A)，不是一次，而是连续五次没有失败。 很多读过这个消息的人都认为这个消息令人印象深刻，但与 Lee Se-dol 的比赛无法相提并论，很多人认为他们是世界上最好的 Go Go 球员之一，如果不是最好的话。 想象一下这样一场人与机器的大决斗，[中国顶级围棋球员预测李不会输掉一场比赛，李自己也有信心预计最多可能输掉一场比赛](http://news.xinhuanet.com/english/sports/2016-02/23/c_135121693.htm)。
 
-What actually ended up happening when they faced off? Lee went on to lose [**_all but one_**](http://www.theverge.com/2016/3/15/11213518/alphago-deepmind-go-match-5-result) of their match’s five games. An AI named AlphaGo is now a better Go player than any human and has been [granted the “divine” rank of 9 dan](http://phys.org/news/2016-03-google-alphago-divine.html). In other words, its level of play borders on godlike. Go has officially fallen to machine, just as Jeopardy did before it to Watson, and chess before that to Deep Blue.
+实际上他们遇到什么时最终会发生什么？ 李继续输掉了他们的比赛的五场比赛[** _除了一个_ **之外](http://www.theverge.com/2016/3/15/11213518/alphago-deepmind-go-match-5-result)。 一个名为AlphaGo的AI现在是一个比任何人都更好的Go玩家，并且[被授予“神圣”等级为9 dan](http://phys.org/news/2016-03-google-alphago-divine.html)。 换句话说，它的游戏水平与上帝接近。 Go 正式下降到机器，就像 Jeopardy 在它之前对 Watson 所做的那样，以及之前的国际象棋对 Deep Blue 来说。
 
-> “AlphaGo’s historic victory is a clear signal that we’ve gone from linear to parabolic.”
+> “AlphaGo 的历史性胜利是一个明确的信号，我们已经从线性变为抛物线。”
 
-So, what is Go? Very simply, think of Go as Super Ultra Mega Chess. This may still sound like a small accomplishment, another feather in the cap of machines as they continue to prove themselves superior in the fun games we play, but it is no small accomplishment, and what’s happening is no game.
+那么，Go是什么？ 很简单，将Go视为Super Ultra Mega Chess。 这听起来似乎只是一个小小的成就，是机器上限的另一个亮点，因为他们在我们玩的有趣游戏中继续证明自己优越，但这不是一个小成就，而且正在发生的事情就是没有游戏。
 
-AlphaGo’s historic victory is a clear signal that we’ve gone [from linear to parabolic](http://about.bankofamerica.com/assets/davos-2016/PDFs/robotic-revolution.pdf). Advances in technology are now so visibly exponential in nature that we can expect to see a lot more milestones being crossed long before we would otherwise expect. These exponential advances, most notably in forms of artificial intelligence limited to specific tasks, we are entirely unprepared for as long as we continue to insist upon employment as our primary source of income.
+AlphaGo的历史性胜利是一个明确的信号，我们已经[从线性到抛物线](http://about.bankofamerica.com/assets/davos-2016/PDFs/robotic-revolution.pdf)。 技术进步现在显然具有指数性，我们可以期待在我们预期之前很久就会看到更多的里程碑。这些指数性进步，尤其是仅限于特定任务的人工智能形式，只要我们继续坚持将就业作为我们的主要收入来源，我们就完全没有准备。
 
-This may all sound like exaggeration, so let’s take a few decade steps back, and look at what computer technology has been actively doing to human employment so far:
+这可能听起来有些夸张，所以让我们花几十年时间回顾一下，看看迄今为止计算机技术对人类就业的积极影响：
 
 ![](https://cdn-images-1.medium.com/max/800/1*yPLHq5HEBTIs0VCdpe7KYA.jpeg)
 
-Source: [St. Louis Fed](https://www.stlouisfed.org/on-the-economy/2016/january/jobs-involving-routine-tasks-arent-growing)
+资料来源：[St. Louis Fed](https://www.stlouisfed.org/on-the-economy/2016/january/jobs-involving-routine-tasks-arent-growing)
 
-Let the above chart sink in. Do not be fooled into thinking this conversation about the automation of labor is set in the future. It’s already here. **Computer technology is already eating jobs and has been since 1990.**
+让上面的图表陷入其中。不要误以为这个关于劳动自动化的对话是在未来设定的。 它已经在这里了。 **计算机技术已经开始从事就业，自1990年以来一直如此。**
 
-#### Routine Work
+#### 日常工作
 
-All work can be divided into four types: routine and nonroutine, cognitive and manual. Routine work is the same stuff day in and day out, while nonroutine work varies. Within these two varieties, is the work that requires mostly our brains (cognitive) and the work that requires mostly our bodies (manual). Where once all four types saw growth, the stuff that is routine stagnated back in 1990. This happened because routine labor is easiest for technology to shoulder. Rules can be written for work that doesn’t change, and that work can be better handled by machines.
+所有工作可分为四种类型：常规和非常规，认知和手动。日常工作是日复一日的工作，而非常规工作则各不相同。在这两个品种中，工作主要需要我们的大脑（认知）和主要需要我们身体的工作（手动）。一旦所有四种类型都出现增长，那些常规的东西在1990年就停滞不前了。这种情况发生的原因是日常劳动力最容易让技术承受。可以为不会改变的工作编写规则，并且可以通过机器更好地处理工作。
 
-Distressingly, it’s exactly routine work that once formed the basis of the American middle class. It’s routine manual work that Henry Ford transformed by paying people middle class wages to perform, and it’s routine cognitive work that once filled US office spaces. [Such jobs are now increasingly unavailable](http://www.huffingtonpost.com/scott-santens/future-of-jobs_b_8011296.html), leaving only two kinds of jobs with rosy outlooks: jobs that require so little thought, we pay people little to do them, and jobs that require so much thought, we pay people well to do them.
+令人沮丧的是，这一直是美国中产阶级基础的日常工作。这是亨利福特通过支付人们中产阶级工资来改造的常规手工作业，这是曾经填补美国办公空间的常规认知工作。 [这些工作现在越来越不可用](http://www.huffingtonpost.com/scott-santens/future-of-jobs_b_8011296.html)，只剩下两种具有乐观前景的工作：需要很少思考的工作，我们支付人们做很少的工作，以及需要这么多思考的工作，我们付出的代价很高。
 
-If we can now imagine our economy as a plane with four engines, where it can still fly on only two of them as long as they both keep roaring, we can avoid concerning ourselves with crashing. But what happens when our two remaining engines also fail? That’s what the advancing fields of robotics and AI represent to those final two engines, because for the first time, we are successfully teaching machines to _learn_.
+如果我们现在可以把我们的经济想象成一架有四个发动机的飞机，只要它们都保持咆哮，它们仍然只能飞到其中两个，我们就可以避免撞到自己。但是当我们剩下的两个引擎也失败了会发生什么？这就是机器人和AI的前进领域代表最后两个引擎的原因，因为我们第一次成功地将机器教学_learn_。
 
-#### Neural Networks
+#### 神经网络
 
-I’m a writer at heart, but my educational background happens to be in psychology and physics. I’m fascinated by both of them so my undergraduate focus ended up being in the physics of the human brain, otherwise known as [cognitive neuroscience](http://www.sciencedaily.com/terms/cognitive_neuroscience.htm). I think once you start to look into how the human brain works, how our mass of interconnected neurons somehow results in what we describe as the mind, everything changes. At least it did for me.
+我是一位内心的作家，但我的教育背景恰好是心理学和物理学。我对它们都着迷，所以我的本科专注最终成为了人类大脑的物理学，也被称为[认知神经科学](http://www.sciencedaily.com/terms/cognitive_neuroscience.htm)。我想一旦你开始研究人类大脑是如何工作的，我们大量相互关联的神经元如何以某种方式导致我们所描述的心灵，一切都会发生变化。至少它对我有用。
 
-As a quick primer in the way our brains function, they’re a giant network of interconnected cells. Some of these connections are short, and some are long. Some cells are only connected to one other, and some are connected to many. Electrical signals then pass through these connections, at various rates, and subsequent neural firings happen in turn. It’s all kind of like falling dominoes, but far faster, larger, and more complex. The result amazingly is us, and what we’ve been learning about how we work, we’ve now begun applying to the way machines work.
+作为我们大脑运作方式的快速入门，它们是互联细胞的巨大网络。其中一些连接很短，有些连接很长。有些单元只相互连接，有些单元连接到多个单元。然后，电信号以各种速率通过这些连接，并且随后的神经发射依次发生。它有点像倒下的多米诺骨牌，但更快，更大，更复杂。令人惊讶的结果是我们，以及我们一直在学习的工作方式，我们现在开始应用机器的工作方式。
 
-One of these applications is the creation of [**deep neural networks**](http://www.wired.com/2016/01/microsoft-neural-net-shows-deep-learning-can-get-way-deeper/) \- kind of like pared-down virtual brains. They provide an avenue to machine learning that’s made incredible leaps that were previously thought to be much further down the road, if even possible at all. How? It’s not just the obvious growing capability of our computers and our expanding knowledge in the neurosciences, but the vastly growing expanse of our collective data, aka **big data**.
+其中一个应用是创建[**深度神经网络**](http://www.wired.com/2016/01/microsoft-neural-net-shows-deep-learning-can-get-way-更深的/)\ —— 有点像精简的虚拟大脑。它们为机器学习提供了一条途径，如果有可能的话，它已经取得了前所未有的惊人飞跃。怎么样？这不仅仅是我们计算机明显增长的能力以及我们在神经科学方面不断扩展的知识，而是我们集体数据的广泛增长，即**大数据**。
 
-#### Big Data
+#### 大数据
 
-Big data isn’t just some buzzword. It’s information, and when it comes to information, we’re creating more and more of it every day. In fact we’re creating so much that a 2013 report by SINTEF estimated that [90% of all information in the world had been created in the prior two years](http://www.sciencedaily.com/releases/2013/05/130522085217.htm). This incredible rate of data creation is even [doubling every 1.5 years](http://www.datamation.com/applications/big-data-analytics-overview.html) thanks to the Internet, where in 2015 [**_every minute_** we were liking 4.2 million things on Facebook, uploading 300 hours of video to YouTube, and sending 350,000 tweets](https://www.domo.com/blog/2015/08/data-never-sleeps-3-0/). Everything we do is generating data like never before, and lots of data is exactly what machines need in order to learn _to learn_. Why?
+大数据不仅仅是一些流行语。它是信息，当涉及到信息时，我们每天都在创造越来越多的信息。事实上，我们正在创造如此之多，以至于SINTEF 2013年的一份报告估计[世界上90％的信息都是在前两年创建的](http://www.sciencedaily.com/releases/2013/05 /130522085217.htm)。这种令人难以置信的数据创建速度甚至是[每1.5年翻一番](http://www.datamation.com/applications/big-data-analytics-overview.html)，这得益于互联网，2015年[** _每分钟] **我们喜欢Facebook上的420万件内容，上传300小时的视频到YouTube，发送350,000条推文](https://www.domo.com/blog/2015/08/data-never-sleeps-3-0 /)。我们所做的一切都是以前所未有的方式生成数据，而大量数据正是机器学习_学习所需要的。为什么？
 
-Imagine programming a computer to recognize a chair. You’d need to enter a ton of instructions, and the result would still be a program detecting chairs that aren’t, and _not_ detecting chairs that are. So how did _we_ learn to detect chairs? Our parents pointed at a chair and said, “chair.” Then we thought we had that whole chair thing all figured out, so we pointed at a table and said “chair”, which is when our parents told us that was “table.” This is called reinforcement learning. The label “chair” gets connected to every chair we see, such that certain neural pathways are weighted and others aren’t. For “chair” to fire in our brains, what we perceive has to be close enough to our previous chair encounters. Essentially, our lives are big data filtered through our brains.
+想象一下，编程计算机以识别椅子。你需要输入大量的指令，结果仍然是一个程序，检测不是的椅子，而不是检测椅子。那么_we_如何学会检测椅子？我们的父母指着一把椅子，说道，“椅子。”然后我们以为我们把整个椅子的东西全都搞清楚了，所以我们指着一张桌子说“椅子”，就在我们的父母告诉我们这是“桌子”的时候。 “这称为强化学习。标签“椅子”连接到我们看到的每个椅子，这样某些神经通路被加权，而其他神经通路则没有。对于“椅子”在我们的大脑中射击，我们认为必须足够接近我们以前的椅子遭遇。从本质上讲，我们的生活是通过我们的大脑过滤的大数据。
 
-#### Deep Learning
+#### 深度学习
 
-The power of deep learning is that it’s a way of using massive amounts of data to get machines to operate more like we do without giving them explicit instructions. Instead of describing “chairness” to a computer, we instead just plug it into the Internet and feed it millions of pictures of chairs. It can then have a general idea of “chairness.” Next we test it with even more images. Where it’s wrong, we correct it, which further improves its “chairness” detection. Repetition of this process results in a computer that knows what a chair is when it sees it, [for the most part as well as we can](https://research.facebook.com/publications/deepface-closing-the-gap-to-human-level-performance-in-face-verification/). The important difference though is that [unlike us, it can then sort through _millions_ of images **within a matter of _seconds_**](https://www.youtube.com/watch?v=t4kyRyKyOpo).
+深度学习的强大之处在于，它是一种使用大量数据来使机器更像我们操作而无需给出明确指令的方法。我们不是将“椅子”描述为计算机，而是将其插入互联网并为其提供数百万张椅子图片。然后它可以大致了解“椅子”。接下来我们用更多图像测试它。如果它错了，我们会纠正它，这进一步改善了它的“椅子”检测。重复这个过程会导致计算机在看到椅子时知道它是什么，[大多数情况下我们都可以](https://research.facebook.com/publications/deepface-closing-the-gap-to-human-level-performance-in-face-verification/)。然而，重要的区别在于[与我们不同， 它可以在_秒_ **内对_millions_的图像进行排序**](https://www.youtube.com/watch?v=t4kyRyKyOpo).
 
-This combination of deep learning and big data has resulted in astounding accomplishments just in the past year. Aside from the incredible accomplishment of AlphaGo, [Google’s DeepMind AI learned how to read and comprehend what it read](https://www.technologyreview.com/s/538616/google-deepmind-teaches-artificial-intelligence-machines-to-read/) through hundreds of thousands of annotated news articles. [DeepMind also _taught itself_ to play dozens of Atari 2600 video games better than humans](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html), just by looking at the screen and its score, and playing games repeatedly. An AI named Giraffe taught itself how to play chess in a similar manner using a dataset of 175 million chess positions, [attaining International Master level status in just 72 hours by repeatedly playing itself](https://www.technologyreview.com/s/541276/deep-learning-machine-teaches-itself-chess-in-72-hours-plays-at-international-master/). In 2015, [an AI even passed a visual Turing test by learning to learn](http://news.mit.edu/2015/computer-system-passes-visual-turing-test-1210) in a way that enabled it to be shown an unknown character in a fictional alphabet, then instantly reproduce that letter in a way that was entirely indistinguishable from a human given the same task. These are all _major_ milestones in AI.
+这种深度学习和大数据的结合在过去一年中取得了令人瞩目的成就。除了AlphaGo令人难以置信的成就之外，[Google的DeepMind AI学会了如何阅读和理解它的内容](https://www.technologyreview.com/s/538616/google-deepmind-teaches-artificial-intelligence-machines-to-read/) 通过数十万条带注释的新闻文章。 [DeepMind也只是通过查看屏幕来看待自己_比人类更好地播放数十款Atari 2600视频游戏](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)，它的得分，并反复玩游戏。一个名叫Giraffe的人工智能教会了自己如何使用一个1.75亿象棋位置的数据集以类似的方式下棋，[通过反复播放自己在72小时内达到国际大师级别的状态](https://www.technologyreview.com/s/541276/deep-learning-machine-teaches-itself-chess-in-72-hours-plays-at-international-master/). 。在2015年，[AI甚至通过学习学习的视觉图灵测试](http://news.mit.edu/2015/computer-system-passes-visual-turing-test-1210) 以启用它的方式要在虚构的字母表中显示一个未知字符，然后立即以一种与给定相同任务的人完全无法区分的方式再现该字母。这些都是AI中的主要里程碑。
 
 However, despite all these milestones, when asked to estimate when a computer would defeat a prominent Go player, the answer even just months prior to [the announcement by Google of AlphaGo’s](http://googleresearch.blogspot.com/2016/01/alphago-mastering-ancient-game-of-go.html) victory, was by experts essentially, “[Maybe in another ten years](http://www.wired.com/2014/05/the-world-of-computer-go/).” A decade was considered a fair guess because Go is a game so complex I’ll just let Ken Jennings of Jeopardy fame, [another former champion human defeated by AI](http://www.slate.com/articles/technology/technology/2016/03/google_s_alphago_defeated_go_champion_lee_sedol_ken_jennings_explains_what.html), describe it:
 
